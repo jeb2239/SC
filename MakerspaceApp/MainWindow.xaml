@@ -1,0 +1,9 @@
+﻿<Window x:Class="MakerspaceApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" ContentRendered="Button_Click">
+    <Grid Margin="184,130,166,131">
+
+        <Button   Content="Listener"  VerticalAlignment="Top" Click="Button_Click" HorizontalAlignment="Center" Width="157" Margin="10,0,0,0" Height="59"/>
+    </Grid>
+</Window>
