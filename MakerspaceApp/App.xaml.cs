@@ -5,7 +5,6 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Threading;
-
 using System.Windows;
 using GS.SCard;
 using GS.Util.Hex;
